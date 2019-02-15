@@ -11,7 +11,7 @@ bitterness = go.Bar(
     x=beers,
     y=[35, 80, 100, 120],
     name='IBU',
-    marker={'color':'green'}
+    marker={'color':'red'}
 )
 ########## Input ABV for each beer
 alcohol = go.Bar(
